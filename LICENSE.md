@@ -1,3 +1,5 @@
+"Kirka.IO Enhanced" Copyright (C) 2023 NotYou
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
