@@ -3,3 +3,4 @@ click  [here](https://youtu.be/XW7-iw7hF28) to see tutorial
 
 you can contact me [here](https://discordapp.com/users/831051078954909696) 
 
+orignal owner of the code [kirka.io enhanced](https://greasyfork.org/en/users/824432-notyou)
